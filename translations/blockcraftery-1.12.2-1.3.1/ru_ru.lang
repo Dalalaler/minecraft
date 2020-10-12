@@ -1,0 +1,34 @@
+temGroup.blockcraftery=Blockcraftery
+
+tile.editable_block.name=Каркас блока
+tile.editable_slab.name=Каркас плиты
+tile.editable_stairs.name=Каркас лестницы
+tile.editable_slant.name=Каркас скоса
+tile.editable_inner_corner.name=Каркас внутреннего угла 
+tile.editable_outer_corner.name=Каркас внешнего угла
+tile.editable_wall.name=Каркас стены
+tile.editable_fence.name=Каркас забора
+tile.editable_trap_door.name=Каркас люка
+tile.editable_door.name=Каркас двери
+tile.editable_pressure_plate_all.name=Каркас нажимной плиты  (все)
+tile.editable_pressure_plate_mobs.name=Каркас нажимной плиты  (мобы)
+tile.editable_pressure_plate_items.name=Каркас нажимной плиты  (предметы)
+tile.editable_pressure_plate_player.name=Каркас нажимной плиты  (игроки)
+
+tile.editable_block_reinforced.name=Армированный каркас блока
+tile.editable_slab_reinforced.name=Армированный каркас плиты
+tile.editable_stairs_reinforced.name=Армированный каркас лестницы
+tile.editable_slant_reinforced.name=Армированный каркас скоса
+tile.editable_inner_corner_reinforced.name=Армированный каркас внутренннго угла
+tile.editable_outer_corner_reinforced.name=Армированный каркас внешнего угла
+tile.editable_wall_reinforced.name=Армированный каркас стены
+tile.editable_fence_reinforced.name=Армированный каркас забора
+tile.editable_trap_door_reinforced.name=Армированный каркас люка
+tile.editable_door_reinforced.name=Армированный каркас двери
+tile.editable_pressure_plate_all_reinarded.name=Армированный каркас нажимной плиты  (все)
+tile.editable_pressure_plate_mobs_reinforced.name=Армированный каркас нажимной плиты  (мобы)
+tile.editable_pressure_plate_items_reinforced.name=Армированный каркас нажимной плиты (предметы)
+tile.editable_pressure_plate_player_reinforced.name=Армированный каркас нажимной плиты  (игроки)
+
+item.editable_door.name=Дверь 
+item.editable_door_reinforced.name=Армированная дверь 

@@ -1,0 +1,50 @@
+# Вкладка "Креатив"
+itemGroup.xtones=Xtones
+
+# Блоков
+tile.xtones.base.tile.name=Плитка Xtone
+tile.xtones.lamp.flat.name=Плоская лампа
+tile.xtones.agon.name=Агон
+tile.xtones.azur.name=Азур
+tile.xtones.bitt.name=Бит
+tile.xtones.cray.name=Мешочек
+tile.xtones.fort.name=Форт
+tile.xtones.glaxx.name=Глэкс
+tile.xtones.iszm.name=Iszm
+tile.xtones.jelt.name=Джельт
+tile.xtones.korp.name=Корп
+tile.xtones.kryp.name=Крип
+tile.xtones.lair.name=Логово
+tile.xtones.lave.name=Лав
+tile.xtones.mint.name=Мята
+tile.xtones.myst.name=Мист
+tile.xtones.reds.name=Красные
+tile.xtones.reed.name=Рид
+tile.xtones.roen.name=Роэн
+tile.xtones.sols.name=Солс
+tile.xtones.sync.name=Синх
+tile.xtones.tank.name=Танк
+tile.xtones.vect.name=Вект
+tile.xtones.vena.name=Вена
+tile.xtones.zane.name=Зейн
+tile.xtones.zech.name=Зах
+tile.xtones.zest.name=Зест
+tile.xtones.zeta.name=Зета
+tile.xtones.zion.name=Зион
+tile.xtones.zkul.name=Зкул
+tile.xtones.zoea.name=Зоя
+tile.xtones.zome.name=Зоме
+tile.xtones.zone.name=Зона
+tile.xtones.zorg.name=Зорг
+tile.xtones.ztyl.name=Зтил
+tile.xtones.zyth.name=Зиф
+
+# Подсказка
+tooltip.xtones.type=Тип: %d
+tooltip.xtones.cycle=%s + Прокрутите до цикла
+
+# Keybind
+key.xtones.scroll=Цикл Xtone
+
+# Чат
+chat.xtones.scroll.disable=Вариант цикла путем прокрутки отключен этим сервером.

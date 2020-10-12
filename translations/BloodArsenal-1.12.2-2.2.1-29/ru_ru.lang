@@ -1,0 +1,249 @@
+# Creative Tab
+itemGroup.bloodarsenal.creative_tab=§4Кроваваый арсенал
+
+# Items
+item.bloodarsenal.base_item.glass_shard.name=Стеклянный осколок
+item.bloodarsenal.base_item.blood_infused_stick.name=Палка, наполненная кровью
+item.bloodarsenal.blood_burned_string.name=Обожженная кровью нить
+item.bloodarsenal.base_item.blood_infused_glowstone_dust.name=Пыль светящегося камня, наполненная кровью
+item.bloodarsenal.base_item.inert_blood_infused_iron_ingot.name=Слиток инертного кровавого железа
+item.bloodarsenal.base_item.blood_infused_iron_ingot.name=Пропитанный кровью железный слиток
+item.bloodarsenal.blood_orange.name=Кровавый апельсин
+item.bloodarsenal.bound_stick.name=Связанная палка
+item.bloodarsenal.blood_diamond.normal.name=Кровавый алмаз
+item.bloodarsenal.blood_diamond.inert.name=Инертный кровавый алмаз
+item.bloodarsenal.blood_diamond.infused.name=Пропитанный кровью алмаз
+item.bloodarsenal.blood_diamond.bound.name=Связанный алмаз
+
+item.bloodarsenal.blood_infused_wasted.pickaxe.name=Пропитанная кровью деревянная кирка
+item.bloodarsenal.blood_infused_wasted.axe.name=Пропитанный кровью деревянный топор
+item.bloodarsenal.blood_infused_wasted.shovel.name=Пропитанная кровью деревянная лопата
+item.bloodarsenal.blood_infused_wasted.sickle.name=Пропитанный кровью деревянный серп
+item.bloodarsenal.blood_infused_wasted.sword.name=Пропитанный кровью деревянный меч
+item.bloodarsenal.blood_infused_iron.pickaxe.name=Пропитанная кровью железная кирка
+item.bloodarsenal.blood_infused_iron.axe.name=Пропитанный кровью железный топор
+item.bloodarsenal.blood_infused_iron.shovel.name=Пропитанная кровью железная лопата
+item.bloodarsenal.blood_infused_iron.sickle.name=Пропитанный кровью железный серп
+item.bloodarsenal.blood_infused_iron.sword.name=Пропитанный кровью железный меч
+item.bloodarsenal.blood_infused_shield.name=Пропитанный кровью щит
+
+item.bloodarsenal.glass_sacrificial_dagger.name=Стеклянный жертвенный кинжал
+item.bloodarsenal.glass_dagger_of_sacrifice.name=Стеклянный кинжал жертвоприношения
+item.bloodarsenal.stygian_dagger.name=Стигийский кинжал
+
+item.bloodarsenal.base_item.reagent_swimming.name=Реагент для плавания
+item.bloodarsenal.base_item.reagent_ender.name=Реагент Эндера
+item.bloodarsenal.base_item.reagent_lightning.name=Реагент молнии
+item.bloodarsenal.base_item.reagent_divinity.name=Реагент Божественности
+
+item.bloodarsenal.sigil.swimming.name=Печать плавания
+item.bloodarsenal.sigil.ender.name=Печать Эндера
+item.bloodarsenal.sigil.augmented_holding.name=Печать расширенного владения
+item.bloodarsenal.sigil.lightning.name=Печать молнии
+item.bloodarsenal.sigil.divinity.name=Печать Божественности
+item.bloodarsenal.sigil.sentience.name=Печать разумности
+
+item.bloodarsenal.gem.sacrifice.name=Самоцвет жертвоприношения
+item.bloodarsenal.gem.self_sacrifice.name=Самоцвет самопожертвования
+item.bloodarsenal.gem.tartaric.name=Самоцвет татарской воли
+
+item.bloodarsenal.bound.sickle.name=Скованный серп
+item.bloodarsenal.bound.igniter.name=Скованный воспламенитель
+item.bloodarsenal.bound.shears.name=Связанные ножницы
+
+item.bloodarsenal.base_item.stasis_plate.name=Стазисная пластина
+item.bloodarsenal.stasis.pickaxe.name=Стазисная кирка
+item.bloodarsenal.stasis.axe.name=Стазисный топор
+item.bloodarsenal.stasis.shovel.name=Стазисная лопата
+item.bloodarsenal.stasis.sword.name=Стазисный клинок
+item.bloodarsenal.profilable.name =%s : Profile %d
+item.bloodarsenal.profilable.alt=Profile %d
+
+item.bloodarsenal.modifier_tome.name=Фолиант модификаторов
+
+item.bloodarsenal.warp_blade.name=Клинок искривления
+
+item.bloodarsenal.sacrifice_amulet.name=Амулет жертвоприношения
+item.bloodarsenal.self_sacrifice_amulet.name=Амулет самопожертвования
+item.bloodarsenal.soul_pendant.petty.name=Подвеска мелкой души
+item.bloodarsenal.soul_pendant.lesser.name=Малая подвеска души
+item.bloodarsenal.soul_pendant.common.name=Обычный кулон души
+item.bloodarsenal.soul_pendant.greater.name=Большая подвеска души
+item.bloodarsenal.soul_pendant.grand.name=Великая подвеска души
+item.bloodarsenal.vampire_ring.name=Кольцо вампира
+
+# Blocks
+tile.bloodarsenal.slate.blank.name=Пустой сланцевый блок
+tile.bloodarsenal.slate.reinforced.name=Усиленный сланцевый блок
+tile.bloodarsenal.slate.imbued.name=Блок из прочного сланца
+tile.bloodarsenal.slate.demonic.name=Демонический сланцевый блок
+tile.bloodarsenal.slate.ethereal.name=Блок из эфирного сланца
+tile.bloodarsenal.blood_infused_wasted_log.name=Пропитанное кровью дерево
+tile.bloodarsenal.blood_infused_wasted_planks.name=Пропитанные кровью деревянные доски
+tile.bloodarsenal.blood_infused_wasted_stairs.name=Пропитанная кровью деревянная лестница
+tile.bloodarsenal.blood_infused_wasted_double_slab.name=Пропитанная кровью деревянная плита
+tile.bloodarsenal.blood_infused_wasted_slab.name=Пропитанная кровью деревянная плита
+tile.bloodarsenal.blood_infused_wasted_fence.name=Пропитанный кровью деревянный забор
+tile.bloodarsenal.blood_infused_wasted_fence_gate.name=Пропитанные кровью деревянные ворота ограды
+tile.bloodarsenal.blood_stained_glass.name=Стекло с кровью
+tile.bloodarsenal.blood_stained_glass_pane.name=Окно из окрашенного кровью стекла
+tile.bloodarsenal.blood_torch.name=Кровавый факел
+tile.bloodarsenal.blood_infused_iron_block.name=Пропитанный кровью железный блок
+tile.bloodarsenal.blood_infused_glowstone.name=Пропитанный кровью светящийся камень
+tile.bloodarsenal.glass_shards.name=Осколки стекла
+tile.bloodarsenal.block_blood_burned_string.name=Обожженная кровью нить
+tile.bloodarsenal.altare_aenigmatica.name=Алтарь Aenigmatica
+tile.bloodarsenal.stasis_plate.name=Стазисная пластина
+tile.bloodarsenal.blood_capacitor.name=Кровяной конденсатор
+
+tile.bloodarsenal.fluid.refined_life_essence.name=Очищенная сущность жизни
+
+# Entities
+entity.summoned_tool.name=Призванный инструмент
+entity.warp_blade.name=Основание лезвия
+
+# Tooltips
+tooltip.bloodarsenal.glass_shard.desc=Пронзительно прозрачный
+tooltip.bloodarsenal.glass_shard.info=Можно получить, разбив стекло, удерживая кремень
+tooltip.bloodarsenal.blood_infused_stick.desc=Палка, наполненная жизнью!
+tooltip.bloodarsenal.blood_orange.desc=Спелые и с соком!
+tooltip.bloodarsenal.blood_infused_glowstone_dust.desc=Волшебная пыль пикси
+tooltip.bloodarsenal.inert_blood_infused_iron_ingot.desc=Не очень живое ...
+tooltip.bloodarsenal.blood_infused_iron_ingot.desc=Светится жизнью
+tooltip.bloodarsenal.glass_sacrificial_dagger.desc=Режущая кромка
+tooltip.bloodarsenal.glass_dagger_of_sacrifice.desc=Передний край
+tooltip.bloodarsenal.bound_stick.desc=Ложный свайп!
+tooltip.bloodarsenal.blood_diamond.normal.desc=Мерцающий красный
+tooltip.bloodarsenal.blood_diamond.inert.desc=Пустой с потенциалом ...
+tooltip.bloodarsenal.blood_diamond.infused.desc=Пульсирует жизнью
+tooltip.bloodarsenal.blood_diamond.bound.desc=Связанный жизнью!
+tooltip.bloodarsenal.stygian_dagger.desc=Кровотечение из Стикса
+
+tooltip.bloodarsenal.reagent_lightning.info0=Поместите следующее в воду:
+tooltip.bloodarsenal.reagent_lightning.info1=-Связующий реагент
+tooltip.bloodarsenal.reagent_lightning.info2=-Блок светящегося камня
+tooltip.bloodarsenal.reagent_lightning.info3=-Красный блок
+tooltip.bloodarsenal.reagent_lightning.info4=-Порох
+tooltip.bloodarsenal.reagent_lightning.info5=-Железный блок
+tooltip.bloodarsenal.reagent_lightning.info6=-Золотой блок
+tooltip.bloodarsenal.reagent_lightning.info7=и порази их молнией!
+
+tooltip.bloodarsenal.sigil.swimming.desc=Продолжай плавать!
+tooltip.bloodarsenal.sigil.ender.desc=Мини-портал через Конец
+tooltip.bloodarsenal.sigil.lightning.desc=&bМолния преобразована
+tooltip.bloodarsenal.sigil.divinity.desc=&6& nНевероятная божественность
+tooltip.bloodarsenal.sigil.sentience.desc=Разумные инструменты!
+
+tooltip.bloodarsenal.sacrifice_amulet.desc=Не хочешь, не трать!
+tooltip.bloodarsenal.self_sacrifice_amulet.desc=Сбор залога
+
+tooltip.bloodarsenal.soul_pendant.petty=Кулон, используемый для небольшой воли
+tooltip.bloodarsenal.soul_pendant.lesser=Кулон, используемый для сохранения воли
+tooltip.bloodarsenal.soul_pendant.common=Кулон, используеумый для содержания большей воли
+tooltip.bloodarsenal.soul_pendant.greater=Кулон, используемый для огромной силы воли
+tooltip.bloodarsenal.soul_pendant.grand=Подвеска, которая для содержания невероятного количества воли
+tooltip.bloodarsenal.vampire_ring.desc=Питается кровью!
+
+tooltip.bloodarsenal.bound.sickle.desc=Готов к жатве
+tooltip.bloodarsenal.bound.igniter.desc=Полыхание жизни!
+tooltip.bloodarsenal.bound.shears.desc=Стрижка овец, как весело!
+
+tooltip.bloodarsenal.stored=Сохранено: &c%d &7LP
+tooltip.bloodarsenal.level=Уровень: %d
+tooltip.bloodarsenal.stasis=Стазис: %b
+tooltip.bloodarsenal.energy=Энергия: %d
+
+tooltip.bloodarsenal.modifier_type.head=Головка:
+tooltip.bloodarsenal.modifier_type.core=Ядро:
+tooltip.bloodarsenal.modifier_type.handle=Ручка:
+tooltip.bloodarsenal.modifier_type.ability=Способность:
+
+tooltip.bloodarsenal.modifier.flame=Угольное касание
+tooltip.bloodarsenal.modifier.bad_potion=Зелье
+tooltip.bloodarsenal.modifier.sharpness=Лезвие бритвы
+tooltip.bloodarsenal.modifier.bloodlust=Жажда крови
+tooltip.bloodarsenal.modifier.silky=Шелковистая гладкость
+tooltip.bloodarsenal.modifier.smelting=Расплавленный шмельт
+tooltip.bloodarsenal.modifier. luck=Очарование удачи
+tooltip.bloodarsenal.modifier.looting=Фармер добычи
+tooltip.bloodarsenal.modifier.xperienced=Опытный
+tooltip.bloodarsenal.modifier.quick_draw=Быстрое начертание
+tooltip.bloodarsenal.modifier.shadow_tool=Теневой инструмент
+tooltip.bloodarsenal.modifier.beneficial_potion=Зелье
+tooltip.bloodarsenal.modifier.aod=Аура разрушения
+tooltip.bloodarsenal.modifier.sigil=Печать
+
+tooltip.bloodarsenal.modifier.level =%s (Уровень %d%s)
+
+tooltip.bloodarsenal.hold_shift=Удерживайте - &1SHIFT&7- для получения дополнительной информации
+
+# Ritual
+ritual.bloodarsenal.infusion_ritual=Настойка Сангвина
+ritual.bloodarsenal.purification_ritual=Ритуал очищения
+ritual.bloodarsenal.blood_burner_ritual=Обряды сжигания крови
+
+ritual.bloodarsenal.imperfect.lightning=Несовершенный ритуал молний
+ritual.bloodarsenal.imperfect.enchant_reset=Несовершенный ритуал сброса чар
+ritual.bloodarsenal.imperfect.ice=Несовершенный ледяной ритуал
+ritual.bloodarsenal.imperfect.snow=Несовершенный снежный ритуал
+
+# Chat
+chat.bloodarsenal.damage_source_glass =%s слишком сильно укололся
+chat.bloodarsenal.damage_source_bleeding =%s потерял всю жизнь
+chat.bloodarsenal.set_level=Установить уровень:%d
+chat.bloodarsenal.too_weak=Вы чувствуете себя слишком слабым, чтобы сделать это ...
+chat.bloodarsenal.set_owner=Установить связанного владельца:%s
+chat.bloodarsenal.already_owner=Вы уже привязаны к этому!
+chat.bloodarsenal.no_owner=Этот предмет не привязан!
+
+chat.bloodarsenal.modifier_added=&4%s (уровень%d) добавлено в %s!&f
+chat.bloodarsenal.modifier_ready=&4%s (уровень%d) готов к обновлению!&f
+
+# Commands
+commands.bloodarsenal.error.arg.invalid=Недействительные аргументы
+commands.bloodarsenal.error.arg.missing=Недостаточно аргументов
+commands.bloodarsenal.error.arg.player.missing=Вы должны указать, с каким игроком вы хотите выполнить это действие.
+commands.bloodarsenal.error.404=Команда не найдена!
+commands.bloodarsenal.error.unknown=Неизвестная команда!
+commands.bloodarsenal.error.perm=У вас нет разрешения на использование этой команды.
+commands.bloodarsenal.success=Успешно выполнено
+
+commands.bloodarsenal.format.help =%s -%s
+commands.bloodarsenal.format.error =%s -%s
+
+commands.bloodarsenal.help.usage=/ bloodarsenal help
+commands.bloodarsenal.help.help=Отображает справочную информацию для команды «/ bloodarsenal».
+
+commands.bloodarsenal.stasis.usage=/ bloodarsenal stasis [добавить | удалить] [имя-модификатора] [уровень модификатора]
+commands.bloodarsenal.stasis.help=Изменяет текущий стазисный инструмент
+commands.bloodarsenal.stasis.add.help=Добавляет указанный модификатор и уровень на инструмент
+commands.bloodarsenal.stasis.add.success =%s (уровень%d) успешно добавлен в инструмент!
+commands.bloodarsenal.stasis.add.fail=Не удалось добавить%s (уровень%d) к инструменту!
+commands.bloodarsenal.stasis.remove.help=Удаляет указанный модификатор и уровень из инструмента
+commands.bloodarsenal.stasis.remove.success =%s успешно удален из инструмента!
+commands.bloodarsenal.stasis.remove.fail=Не удалось удалить%s из инструмента!
+
+# JEI
+jei.bloodarsenal.recipe.required_LP=LP:%d
+jei.bloodarsenal.recipe.sanguine_infusion=Настойка Сангвина
+jei.bloodarsenal.recipe.modifier_level=Уровень модификатора:%d
+
+jei.bloodarsenal.desc.glass_shard=Предмет для крафта, полученный разбиванием стекла при удерживании кремня.
+jei.bloodarsenal.desc.reagent_lightning=Изделие, полученное в результате утомительного процесса.\n\nСначала поместите в мир блок источника воды, затем бросьте связывающий реагент, блок светящегося камня, блок золота, блок красного камня , железный блок и порох в воду.\n\nЗатем ударьте молнией по водяному блоку со всеми находящимися в нем предметами.
+jei.bloodarsenal.desc.refined_life_essence=Очищенная жидкость, не содержащая сильных примесей, содержащихся в обычной жизненной эссенции.\n\nМожно очистить с помощью Ритуала очищения с комбинацией: Красного камня, Огенного порошка, Жемчужины Эндера и Залитого кровью светящегося камня.
+
+# Tinker's
+modifier.serrated.name=Зазубренный
+modifier.serrated.desc=§oCuts! §r\nЗаставляет цель кровоточить!
+modifier.serrated.extra=Уровень серьезности:%s
+modifier.sentience.name=Чувство
+modifier.sentience.desc=§oWillful! §r\nПолучает силу воли!
+
+modifier.living.name=Жизнь
+modifier.living.desc=§4Регенеративное! §r\nЛечит себя через сеть душ пользователя
+
+material.blood_infused_wood.name=Пропитанное кровью дерево
+material.blood_infused_wood.prefix=Пропитанный кровью деревянный %s
+material.blood_infused_iron.name=Пропитанное кровью железо
+
+fluid.bloodarsenal.molten_blood_infused_iron.name=Железо, наполненное расплавленной кровью
