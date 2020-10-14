@@ -152,6 +152,8 @@ item.bloodmagic.sentientArmour.boots.name=Sentient Boots
 
 item.bloodmagic.altarMaker.name=Altar Maker
 
+
+item.bloodmagic.ritualDismantler.name=Ritual Dismantler
 item.bloodmagic.ritualDismantler.name=Ritual Dismantler
 item.bloodmagic.ritualDivinernormal.name=Ritual Diviner
 item.bloodmagic.ritualDivinerdusk.name=Ritual Diviner [Dusk]
@@ -337,7 +339,7 @@ tile.bloodmagic.pillar1.destructive.name=Destructive Stone Pillar
 tile.bloodmagic.pillar1.vengeful.name=Vengeful Stone Pillar
 tile.bloodmagic.pillar1.steadfast.name=Steadfast Stone Pillar
 
-tile.bloodmagic.pillar2.raw.name=Accented Raw Stone Pillar
+tile.bloodmagic.pillar2.raw.name=Столб из необработанного камня
 tile.bloodmagic.pillar2.corrosive.name=Accented Corrosive Stone Pillar
 tile.bloodmagic.pillar2.destructive.name=Accented Destructive Stone Pillar
 tile.bloodmagic.pillar2.vengeful.name=Accented Vengeful Stone Pillar
@@ -504,7 +506,6 @@ tooltip.bloodmagic.livingArmour.upgrade.criticalStrike=True Strike
 tooltip.bloodmagic.livingArmour.upgrade.elytra=Elytra
 tooltip.bloodmagic.livingArmour.upgrade.nightSight=Nocturnal Prowess
 tooltip.bloodmagic.livingArmour.upgrade.repair=Repairing
-
 
 tooltip.bloodmagic.livingArmour.upgrade.slowness=Limp Leg
 tooltip.bloodmagic.livingArmour.upgrade.crippledArm=Crippled Arm
@@ -819,6 +820,7 @@ entity.bloodmagic.Mimic.name=Mimic
 commands.bloodmagic.error.arg.invalid=Invalid arguments
 commands.bloodmagic.error.arg.missing=Not enough arguments
 commands.bloodmagic.error.arg.player.missing=You must specify which player you wish to perform this action on.
+commands.bloodmagic.error.404=Command not found!
 commands.bloodmagic.error.negative=Amount must be a positive Integer.
 commands.bloodmagic.error.outofbounds=Given integer is too large (must be within list ID boundaries).
 
